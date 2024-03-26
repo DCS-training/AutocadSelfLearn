@@ -7,7 +7,7 @@ Throughout this course, you will learn the fundamental principles of AutoCAD, fr
 
 ## Structure of the course
 The course is in 2 lessons. Here are the learning outcomes for lessons 1 and 2, respectively.
-*Lesson 1
+* Lesson 1
     + Why and when do we use AutoCAD?
     + Understanding the interface?
     + Understanding the workflow of drafting
