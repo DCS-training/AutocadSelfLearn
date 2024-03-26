@@ -21,6 +21,3 @@ The course is in 2 lessons. Here are the learning outcomes for lessons 1 and 2, 
     + Exporting your drawing
 
 We hope you find the materials useful to set your foot into drafting 2D information conveniently. So, let's hop into the software. Happy CAD-ing!
-
-Sincerely,
-Ki
