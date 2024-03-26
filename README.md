@@ -1,4 +1,4 @@
-# Welcome to digital drawing with Autocad
+# Welcome to digital drawing with AutoCAD
 
 Hello and welcome. Whether you're stepping into the realm of Computer-Aided Design (CAD) for the first time or looking to enhance your skills, AutoCAD remains one of the most commonly used tools for drafting 2D information. This course is designed for beginners who are looking for ways to help build confidence by understanding the fundamentals of the software. The course is set up to enable you to go through the materials at your own pace. We hope you can make the most out of the materials we prepared.
 
