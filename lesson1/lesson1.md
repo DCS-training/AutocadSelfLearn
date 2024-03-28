@@ -129,7 +129,7 @@ To scale up the drawing, type scale or sc $\\rightarrow$ space $\\rightarrow$ se
 Moving onto the final part of the lesson today. Let's learn some of the basic commands to draft the table pdf. By now, you should be comfortable with typing in your commands into the command bar and then executing it with the space bar. Therefore, for the materials, only the command name and the shortcut will be provided. 
 
 * Polyline (PL)
-Instead of using drafting with the command __line (L) __, we tend to draft with __Polyline (PL). The main reason is continuity. For the lines produced by the line command, lines are disjointed. However, more frequently, we are interested in the area / the perimeter of the geometries. Therefore, it is more common to draft them as continuous lines, which will give us one single object with an area that we can read from the properties menu right away. However, if you need lines to be disjointed, then lines will be a better option. Try using the polyline command to outline the table from the base view.
+Instead of using drafting with the command __line (L)__, we tend to draft with __Polyline (PL)__. The main reason is continuity. For the lines produced by the line command, lines are disjointed. However, more frequently, we are interested in the area / the perimeter of the geometries. Therefore, it is more common to draft them as continuous lines, which will give us one single object with an area that we can read from the properties menu right away. However, if you need lines to be disjointed, then lines will be a better option. Try using the polyline command to outline the table from the base view.
 
 ![](https://github.com/ktonguk/autocad/blob/main/lesson1/image/17_polyline.gif)
 
