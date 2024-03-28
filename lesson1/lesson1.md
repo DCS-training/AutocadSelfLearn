@@ -6,7 +6,6 @@ __Lesson 1__
 3. Understanding the interface?
 4. Understanding the workflow of drafting
 5. Basic commands and workflow to trace and draft an object
-6. Setting up your drawing
 
 ## 1. What is AutoCAD?
 AutoCAD is commonly used across various industries such as engineering, architecture, drafting, and design. The primary goal is to create precise 2D and 3D (not covered in this course) drawings that enable communication, documentation, and collaboration in modelling information within and across disciplines. Some people argue that AutoCAD is a dinosaur of software that professionals like designers and construction project managers rarely use anymore. However, **drafting 2D information in AutoCAD is still common because you can't create a 3D model without a base plan!** In other words, AutoCAD remains a useful tool to create the foundation for more advanced modelling or drafting work, especially in the 3D environment. Besides, because of its long-standing presence in the market, **many of the drafting principles in the 3D environment are based on the workflow of AutoCAD.** Therefore, by achieving a sound foundation in the software, you will be able to pick up other computer-aided design software at a much faster rate.
@@ -86,17 +85,29 @@ Set units by following the steps we introduced above (type units or un $\\righta
 ![](https://github.com/ktonguk/autocad/blob/main/lesson1/image/13_pdf.png)
 * After that, place your drawing anywhere in the model space. Click to confirm the insertion point.
 ![](https://github.com/ktonguk/autocad/blob/main/lesson1/image/13_pdf_move.gif)
-* You will notice the drawing is a bit small. We need to scale this up. We know from the side view that the width of the table is 1000 mm. Therefore, we could use this as a reference. To do that, let's first create a line that is 1000mm long.
+* You will notice the drawing is a bit small. We need to scale this up. We know that length of the table is 1998mm. Therefore, we could use this as a reference. To do that, let's first create a line that is 1998mm long.
 * #### Line command
 Type Line or L $\\rightarrow$ space $\\rightarrow$ mouse to first point $\\rightarrow$ mouse to second point $\\rightarrow$ "Esc"
 ![](https://github.com/ktonguk/autocad/blob/main/lesson1/image/04_line.gif)
 * #### Orthographic mode
 Wait a minute... it's a line. Therefore, it's supposed to be straight. However, it's not quite straight. How can I draw a completely straight line? To do that, you will need to turn on the ortho mode in AutoCAD. Ortho mode makes all line work to be drawn orthographical at 90 degrees. To do that, press F8 or the icon at the bottom right-hand corner.
+
 ![](https://github.com/ktonguk/autocad/blob/main/lesson1/image/05_othorgraphic.png)
+
 Repeat the command __Line__ and see if you can produce a completely straight line.
 * #### Move
-  Now you have a line that is 1000mm long. Move the pdf to line up with the reference 1000mm line. To move an object, type move or m $\\rightarrow$ space $\\rightarrow$ click on the pdf object and align the pdf with the reference line.
+Now you have a line that is 1998mm long. Move the pdf to line up with the reference 1998mm line. To move an object, type move or m $\\rightarrow$ space $\\rightarrow$ click on the pdf object and align the pdf with the reference line.
+
 ![](https://github.com/ktonguk/autocad/blob/main/lesson1/image/14_move.gif)
-* 
+
+* ### OSnap
+You will notice there are little snapping points to help me aim to reference my pdf to the reference line. However, those snapping points might be absent in your interface. To activate the snapping points, simply press type osnap $\\rightarrow$ space $\\rightarrow$ check endpoints as shown below,
+![](https://github.com/ktonguk/autocad/blob/main/lesson1/image/15_osnap.png)
+
+* ### Scale up the pdf
+To scale up the drawing, type scale or sc $\\rightarrow$ space $\\rightarrow$ select base point (corner of the table) $\\rightarrow$ R $\\rightarrow$ space $\\rightarrow$ select endpoint (end corner of the table) $\\rightarrow$ select the target point for scaling up to (end of the reference line). 
+![](https://github.com/ktonguk/autocad/blob/main/lesson1/image/16_scale.gif)
+
+* Now you have your baseline to start drafting! 
 
   
