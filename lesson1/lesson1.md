@@ -58,6 +58,9 @@ There is one piece of invisible information that is not readily readable from th
 There is much more that you can extract information from the table drawing in the centre. For instance, what's the top surface area of the table? We could read the area directly from the properties menu. To access the menu, type properties or pr $\\rightarrow$ space. Go to the bottom of the pop-up menu and read the area. See if you have the same value as the screenshot below,
 ![](https://github.com/ktonguk/autocad/blob/main/lesson1/image/12_properties.png)
 
+## Don't forget to save!
+Ctrl + S works just fine in AutoCAD. You could alternatively click on the AutoCAD icon at the top left $\\rightarrow$ save. The typical format for sharing should be __.dwg__. 
+
 Well done at following us up to this point. Now let's move into the workflow of drafting!
 
 ## __4. Understanding the workflow of drafting__
@@ -69,16 +72,31 @@ The ultimate product of AutoCAD is a drawing and a model that contains precise i
 * __Draft in a draft layer__
   + Insert a new layer and start drafting.
 
+Based on these principles, let's make our first drawing. 
+### Set units
+Start a new drawing by clicking on the Autodesk icon at the top left $\\rightarrow$ new $\\rightarrow$ drawing
+![](https://github.com/ktonguk/autocad/blob/main/lesson1/image/00_interface.png)
+Set units by following the steps we introduced above (type units or un $\\rightarrow$ space). Set units to millimetres (mm).
+![](https://github.com/ktonguk/autocad/blob/main/lesson1/image/11_units.png)
 
-* __Line__
-command: Line or L $\\rightarrow$ space bar $\\rightarrow$ mouse to first point $\\rightarrow$ mouse to second point $\\rightarrow$ "Esc"
+### Import reference
+* Download the Example-Example 1 - simplified.pdf from the folder. Save it in the folder and next to where your current drawing is.
+* Import your drawing to the model space. To do that, type pdf $\\rightarrow$ click on the top left-hand corner of the icon $\\rightarrow$ choose Example-Example 1 - simplified.pdf
+* There should be a pop-up box asking you the details in terms of scale and where you want to place it, please check the selections as per below,
+![](https://github.com/ktonguk/autocad/blob/main/lesson1/image/13_pdf.png)
+* After that, place your drawing anywhere in the model space. Click to confirm the insertion point.
+![](https://github.com/ktonguk/autocad/blob/main/lesson1/image/13_pdf_move.gif)
+* You will notice the drawing is a bit small. We need to scale this up. We know from the side view that the width of the table is 1000 mm. Therefore, we could use this as a reference. To do that, let's first create a line that is 1000mm long.
+* #### Line command
+Type Line or L $\\rightarrow$ space $\\rightarrow$ mouse to first point $\\rightarrow$ mouse to second point $\\rightarrow$ "Esc"
 ![](https://github.com/ktonguk/autocad/blob/main/lesson1/image/04_line.gif)
-
-* __Orthographic Mode__
+* #### Orthographic mode
 Wait a minute... it's a line. Therefore, it's supposed to be straight. However, it's not quite straight. How can I draw a completely straight line? To do that, you will need to turn on the ortho mode in AutoCAD. Ortho mode makes all line work to be drawn orthographical at 90 degrees. To do that, press F8 or the icon at the bottom right-hand corner.
-![image caption: command bar to type in command lines.](image/05_othorgraphic.png)
+![](https://github.com/ktonguk/autocad/blob/main/lesson1/image/05_othorgraphic.png)
 Repeat the command __Line__ and see if you can produce a completely straight line.
+* #### Move
+  Now you have a line that is 1000mm long. Move the pdf to line up with the reference 1000mm line. To move an object, type move or m $\\rightarrow$ space $\\rightarrow$ click on the pdf object and align the pdf with the reference line.
+![](https://github.com/ktonguk/autocad/blob/main/lesson1/image/14_move.gif)
+* 
 
-
-
-
+  
