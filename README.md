@@ -9,10 +9,11 @@ Throughout this course, you will learn the fundamental principles of AutoCAD, fr
 The course is in 2 lessons. Here are the learning outcomes for lessons 1 and 2, respectively.
 * __Lesson 1__
     + Why and when do we use AutoCAD?
+    + Why and when do we use AutoCAD?
     + Understanding the interface?
     + Understanding the workflow of drafting
     + Basic commands and workflow to trace and draft an object
-    + Setting up your drawing
+    + Setting up your drawing 
 * __Lesson 2__
     + Annotating your drawing
     + Styling and Hatches
