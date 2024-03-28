@@ -1,4 +1,4 @@
-# Lesson 1
+![image](https://github.com/ktonguk/autocad/assets/70570496/548dee47-de5a-4ed5-8137-3269f4195a63)# Lesson 1
 ## What will you learn in this lesson?
 __Lesson 1__
 1. What is AutoCAD?
@@ -27,24 +27,41 @@ Based on these uses, the software is commonly used in the following industries,
 To help us understand the interface, let's download and open [Table.dwg](https://github.com/ktonguk/autocad/blob/main/lesson1/Table.dwg) in the folder. Double-click on the file in the folder you saved to open it in AutoCAD. Alternatively, you could open AutoCAD first. Then click on the AutoCAD icon at the top left-hand corner $\\rightarrow$ open $\\rightarrow$ drawing $\\rightarrow$ select the file where you saved (as shown below).
 ![](image/06_open.png)
 
-Once you open the drawing, you will see a drawing with different views of a table. To understand the interface, you first have to understand how to navigate around the interface. Let's take a quick tutorial to learn how to navigate around a drawing. 
+Once you open the drawing, you will see a drawing with different views of a table. The most important component of the interface is the command bar at the bottom of the screen, which looks something like this, 
+![](image/02_commandbar.png)
+AutoCAD is instructed by commands. Whether you want to draw a line, a circle or anything more complicated, you need to instruct AutoCAD by typing in commands into this line. 
+
+To understand the interface, you first have to understand how to navigate around the interface. Let's take a quick tutorial to learn how to navigate around a drawing. 
 
 __Pan__
 The drawing at first sight might not be at the centre. Press the roller on your mouse, hold and move. You should be able to move the drawing canvas sideways. Alternatively, in the command bar at the bottom, type Pan or P $\\rightarrow$ space to execute the pan command. Once executed, you should be able to use the left button on your mouse to navigate instead of the roller. 
 ![](https://github.com/ktonguk/autocad/blob/main/lesson1/image/09_pan.gif)
 
+__Zoom (Extents)__
+The drawing appears to be too closed. What if you would like to see the full scope of the drawing? Type Zoom or Z $\\rightarrow$ space $\\rightarrow$ E $\\rightarrow$ space. Letter E stands for extent. This will then give you the full extent of the drawing. 
+![](https://github.com/ktonguk/autocad/blob/main/lesson1/image/10_zoom.gif)
+
+__Model space__
+Now you should be able to move around the __model space__ quite comfortably. Where the table is at the moment is the model space. This is the space where you will draft and annotate your drawings. To ensure you are in the right space, please ensure the model space tab is always on when you are drafting.
+![](https://github.com/ktonguk/autocad/blob/main/lesson1/image/08_modelspace.png)
+
+__Ribbon of functions__
+Traditionally, you will have to execute all commands by typing into the command bar. This was a considerable barrier to people who needed to master the software quickly. Therefore, throughout the years, AutoCAD has improved by including a ribbon where you can find the majority of the commands in the ribbon without typing. Nonetheless, it is highly recommended that you try to remember the commands and type them into the command bar, which increases efficiency considerably. 
+![](https://github.com/ktonguk/autocad/blob/main/lesson1/image/01_ribbon.png)
+
+__Units__
+There is one piece of invisible information that is not readily readable from the interface but critical for your drawing, which is the units. To access the unit information, type units or un $\\rightarrow$ space. You will see a pop-up window showing the unit of the drawing, which is currently set as millimetres. If you would like to change the units, you just have to click on the drop-down menu and change it to the units appropriate for the drawing. Let's stick with millimetres for the time being.
+![](https://github.com/ktonguk/autocad/blob/main/lesson1/image/11_units.png)
+
+__Properties menu__
+There is much more that you can extract information from the table drawing in the centre. For instance, what's the top surface area of the table? We could read the area directly from the properties menu. To access the menu, type properties or pr $\\rightarrow$ space. Go to the bottom of the pop-up menu and read the area. See if you have the same value as the screenshot below,
+![](https://github.com/ktonguk/autocad/blob/main/lesson1/image/12_properties.png)
+
+Well done at following us up to this point. Now let's move into the workflow of drafting!
+
+## __4. Understanding the workflow of drafting__
 
 
-Let's familiarise ourselves with the interface and understand the key components of the software. First, it's the command line at the bottom of the screen, which looks something like this...
-![](image/02_commandbar.png)
-AutoCAD is instructed by commands. Whether you want to draw a line, a circle or anything more complicated, you need to instruct AutoCAD by typing in commands into this line. 
-
-## Basic commands
-
-Regardless of what instructions you give, you always type the command into the box and then press the "spacebar" to execute it. To exit from the command, press "Esc". 
-Once you have your AutoCAD open, click on the AutoDesk icon at the top left, then "New", and then press "Drawing" as shown in the following,
-![](image/00_interface.png)
-Let's draw your first line in AutoCAD!
 * __Line__
 command: Line or L $\\rightarrow$ space bar $\\rightarrow$ mouse to first point $\\rightarrow$ mouse to second point $\\rightarrow$ "Esc"
 ![](https://github.com/ktonguk/autocad/blob/main/lesson1/image/04_line.gif)
