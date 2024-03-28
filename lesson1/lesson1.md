@@ -1,4 +1,4 @@
-# Lesson 1
+![image](https://github.com/ktonguk/autocad/assets/70570496/0822b3a1-02a6-48bf-9c48-2c682cb57854)# Lesson 1
 ## What will you learn in this lesson?
 __Lesson 1__
 1. What is AutoCAD?
@@ -24,16 +24,34 @@ Based on these uses, the software is commonly used in the following industries,
 * __Construction__: Putting this last because everyone knows how AutoCAD has been widely used to create 3D floor plans, elevations, and sections for technical drawings. The model created in AutoCAD is also widely compatible with other CAD platforms (such as VectorWorks and Microstation). The ability to coordinate with consultants using different software explains why AutoCAD remains popular in the market.
 
 ## 3. Understanding the interface
-Once you have your AutoCAD open, click on the AutoDesk icon at the top left, then "New", and then press "Drawing" as shown in the following,
-![image caption: start a new drawing in AutoCAD.](image/00_interface.png)
+To help us understand the interface, let's download and open [Table.dwg](https://github.com/ktonguk/autocad/blob/main/lesson1/Table.dwg) in the folder. Double-click on the file in the folder you saved to open it in AutoCAD. Alternatively, you could open AutoCAD first. Then click on the AutoCAD icon at the top left-hand corner $\\rightarrow$ open $\\rightarrow$ drawing $\\rightarrow$ select the file where you saved (as shown below).
+![image caption: command bar to type in command lines.](image/06_open.png)
 
-Then you will see a big black screen at the centre. Let's familiarise ourselves with the interface and understand the key components of the software. First, it's the command line at the bottom of the screen, which looks something like this...
-![image caption: command bar to type in command lines.](image/02_commandbar.png)
-AutoCAD is instructed by commands. Whether you want to draw a line, a circle or anything more complicated, you need to instruct AutoCAD by typing in commands into this line. Regardless of what instructions you give, you always type the command into the box and then press the "spacebar" to execute it. To exit from the command, press "Esc". Let's draw your first line in AutoCAD!
+Once you open the drawing, you will see a drawing with different views of a table. Let's take a quick tutorial to learn how to navigate around a drawing. 
+
+__Pan__
+The drawing at first sight might not be at the centre. Press the roller on your mouse, hold and move. You should be able to move the drawing canvas sideways. Alternatively, in the command bar at the bottom, type Pan or P $\\rightarrow$ space to execute the pan command. Once executed, you should be able to use the left button on your mouse to navigate instead of the roller.
+
+
+
+Let's familiarise ourselves with the interface and understand the key components of the software. First, it's the command line at the bottom of the screen, which looks something like this...
+![](image/02_commandbar.png)
+AutoCAD is instructed by commands. Whether you want to draw a line, a circle or anything more complicated, you need to instruct AutoCAD by typing in commands into this line. 
+
+## Basic commands
+
+Regardless of what instructions you give, you always type the command into the box and then press the "spacebar" to execute it. To exit from the command, press "Esc". 
+Once you have your AutoCAD open, click on the AutoDesk icon at the top left, then "New", and then press "Drawing" as shown in the following,
+![](image/00_interface.png)
+Let's draw your first line in AutoCAD!
 * __Line__
 command: Line or L $\\rightarrow$ space bar $\\rightarrow$ mouse to first point $\\rightarrow$ mouse to second point $\\rightarrow$ "Esc"
 ![](https://github.com/ktonguk/autocad/blob/main/lesson1/image/04_line.gif)
 
+* __Orthographic Mode__
+Wait a minute... it's a line. Therefore, it's supposed to be straight. However, it's not quite straight. How can I draw a completely straight line? To do that, you will need to turn on the ortho mode in AutoCAD. Ortho mode makes all line work to be drawn orthographical at 90 degrees. To do that, press F8 or the icon at the bottom right-hand corner.
+![image caption: command bar to type in command lines.](image/05_othorgraphic.png)
+Repeat the command __Line__ and see if you can produce a completely straight line.
 
 
 
