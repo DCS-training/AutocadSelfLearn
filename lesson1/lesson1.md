@@ -61,6 +61,13 @@ There is much more that you can extract information from the table drawing in th
 Well done at following us up to this point. Now let's move into the workflow of drafting!
 
 ## __4. Understanding the workflow of drafting__
+The ultimate product of AutoCAD is a drawing and a model that contains precise information to share with others. Regardless of what you need to produce, the process always starts with drafting. Drafting is different from drawing freely because drafting involves a reference point. Therefore, here are the three typical steps for drafting your first drawing in AutoCAD,
+* __Set units__
+  + Ensure you are drafting in the right units as required.
+* __Import reference__
+  + Ensure the reference is in the right units as required.
+* __Draft in a draft layer__
+  + Insert a new layer and start drafting.
 
 
 * __Line__
