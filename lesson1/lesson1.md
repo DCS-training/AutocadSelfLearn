@@ -27,8 +27,6 @@ Based on these uses, the software is commonly used in the following industries,
 To help us understand the interface, let's download and open [Table.dwg](https://github.com/ktonguk/autocad/blob/main/lesson1/Table.dwg) in the folder. Double-click on the file in the folder you saved to open it in AutoCAD. Alternatively, you could open AutoCAD first. Then click on the AutoCAD icon at the top left-hand corner $\\rightarrow$ open $\\rightarrow$ drawing $\\rightarrow$ select the file where you saved (as shown below).
 ![](image/06_open.png)
 
-***
-
 Once you open the drawing, you will see a drawing with different views of a table. The most important component of the interface is the command bar at the bottom of the screen, which looks something like this, 
 ![](image/02_commandbar.png)
 AutoCAD is instructed by commands. Whether you want to draw a line, a circle or anything more complicated, you need to instruct AutoCAD by typing in commands into this line. 
