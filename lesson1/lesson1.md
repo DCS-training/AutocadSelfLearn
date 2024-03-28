@@ -1,4 +1,4 @@
-![image](https://github.com/ktonguk/autocad/assets/70570496/0822b3a1-02a6-48bf-9c48-2c682cb57854)# Lesson 1
+# Lesson 1
 ## What will you learn in this lesson?
 __Lesson 1__
 1. What is AutoCAD?
