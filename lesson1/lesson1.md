@@ -43,6 +43,7 @@ The drawing appears to be too closed. What if you would like to see the full sco
 
 __Model space__
 Now you should be able to move around the __model space__ quite comfortably. Where the table is at the moment is the model space. This is the space where you will draft and annotate your drawings. To ensure you are in the right space, please ensure the model space tab is always on when you are drafting.
+
 ![](https://github.com/ktonguk/autocad/blob/main/lesson1/image/08_modelspace.png)
 
 __Ribbon of functions__
