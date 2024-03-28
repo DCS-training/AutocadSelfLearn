@@ -24,7 +24,8 @@ Based on these uses, the software is commonly used in the following industries,
 * __Construction__: Putting this last because everyone knows how AutoCAD has been widely used to create 3D floor plans, elevations, and sections for technical drawings. The model created in AutoCAD is also widely compatible with other CAD platforms (such as VectorWorks and Microstation). The ability to coordinate with consultants using different software explains why AutoCAD remains popular in the market.
 
 ## 3. Understanding the interface
-Once you have your AutoCAD open, you should be able to a ribbon at the top
+Once you have your AutoCAD open, click on the AutoDesk icon at the top left, then "New", and then press "Drawing" as shown in the following,
+
 
 
 
