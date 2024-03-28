@@ -35,7 +35,7 @@ AutoCAD is instructed by commands. Whether you want to draw a line, a circle or 
 
 To understand the interface, you first have to understand how to navigate around the interface. Let's take a quick tutorial to learn how to navigate around a drawing. 
 
-***
+**
 __Pan__
 The drawing at first sight might not be at the centre. Press the roller on your mouse, hold and move. You should be able to move the drawing canvas sideways. Alternatively, in the command bar at the bottom, type Pan or P $\\rightarrow$ space to execute the pan command. Once executed, you should be able to use the left button on your mouse to navigate instead of the roller. 
 ![](https://github.com/ktonguk/autocad/blob/main/lesson1/image/09_pan.gif)
