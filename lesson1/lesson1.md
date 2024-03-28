@@ -27,6 +27,8 @@ Based on these uses, the software is commonly used in the following industries,
 Once you have your AutoCAD open, click on the AutoDesk icon at the top left, then "New", and then press "Drawing" as shown in the following,
 ![image caption: start a new drawing in AutoCAD.](image/00_interface.png)
 
+Then you will see a big black screen at the centre. Let's familiarise ourselves with the interface and understand the key components of the software. First, it's the command line at the bottom of the screen, which looks something like this...
+![image caption: command bar to type in command lines.](image/02_commandbar.png)
 
 
 
