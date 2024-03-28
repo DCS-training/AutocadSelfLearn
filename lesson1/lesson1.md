@@ -29,10 +29,10 @@ Once you have your AutoCAD open, click on the AutoDesk icon at the top left, the
 
 Then you will see a big black screen at the centre. Let's familiarise ourselves with the interface and understand the key components of the software. First, it's the command line at the bottom of the screen, which looks something like this...
 ![image caption: command bar to type in command lines.](image/02_commandbar.png)
-AutoCAD is instructed by commands. Whether you want to draw a line, a circle or anything more complicated, you need to instruct AutoCAD by typing in commands into this line. Regardless of what instructions you give, you always type the command into the box, and then press the "spacebar" to execute it. To exit from the command, press "Esc". Let's draw your first line in AutoCAD!
+AutoCAD is instructed by commands. Whether you want to draw a line, a circle or anything more complicated, you need to instruct AutoCAD by typing in commands into this line. Regardless of what instructions you give, you always type the command into the box and then press the "spacebar" to execute it. To exit from the command, press "Esc". Let's draw your first line in AutoCAD!
 * __Line__
 command: Line or L $\\rightarrow$ space bar $\\rightarrow$ mouse to first point $\\rightarrow$ mouse to second point $\\rightarrow$ "Esc"
-
+![image caption: start a new drawing in AutoCAD.](image/04_line.gif)
 
 
 
