@@ -25,12 +25,13 @@ Based on these uses, the software is commonly used in the following industries,
 
 ## 3. Understanding the interface
 To help us understand the interface, let's download and open [Table.dwg](https://github.com/ktonguk/autocad/blob/main/lesson1/Table.dwg) in the folder. Double-click on the file in the folder you saved to open it in AutoCAD. Alternatively, you could open AutoCAD first. Then click on the AutoCAD icon at the top left-hand corner $\\rightarrow$ open $\\rightarrow$ drawing $\\rightarrow$ select the file where you saved (as shown below).
-![image caption: command bar to type in command lines.](image/06_open.png)
+![](image/06_open.png)
 
-Once you open the drawing, you will see a drawing with different views of a table. Let's take a quick tutorial to learn how to navigate around a drawing. 
+Once you open the drawing, you will see a drawing with different views of a table. To understand the interface, you first have to understand how to navigate around the interface. Let's take a quick tutorial to learn how to navigate around a drawing. 
 
 __Pan__
-The drawing at first sight might not be at the centre. Press the roller on your mouse, hold and move. You should be able to move the drawing canvas sideways. Alternatively, in the command bar at the bottom, type Pan or P $\\rightarrow$ space to execute the pan command. Once executed, you should be able to use the left button on your mouse to navigate instead of the roller.
+The drawing at first sight might not be at the centre. Press the roller on your mouse, hold and move. You should be able to move the drawing canvas sideways. Alternatively, in the command bar at the bottom, type Pan or P $\\rightarrow$ space to execute the pan command. Once executed, you should be able to use the left button on your mouse to navigate instead of the roller. 
+![](https://github.com/ktonguk/autocad/blob/main/lesson1/image/09_pan.gif)
 
 
 
