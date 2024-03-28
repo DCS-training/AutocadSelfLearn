@@ -46,7 +46,7 @@ The drawing appears to be too closed. What if you would like to see the full sco
 ***
 __Model space__
 Now you should be able to move around the __model space__ quite comfortably. Where the table is at the moment is the model space. This is the space where you will draft and annotate your drawings. To ensure you are in the right space, please ensure the model space tab is always on when you are drafting.
-***
+
 ![](https://github.com/ktonguk/autocad/blob/main/lesson1/image/08_modelspace.png)
 ***
 __Ribbon of functions__
@@ -60,7 +60,7 @@ There is one piece of invisible information that is not readily readable from th
 __Properties menu__
 There is much more that you can extract information from the table drawing in the centre. For instance, what's the top surface area of the table? We could read the area directly from the properties menu. To access the menu, type properties or pr $\\rightarrow$ space. Go to the bottom of the pop-up menu and read the area. See if you have the same value as the screenshot below,
 ![](https://github.com/ktonguk/autocad/blob/main/lesson1/image/12_properties.png)
-***
+
 Well done at following us up to this point. Now let's move into the workflow of drafting!
 ***
 ## __4. Understanding the workflow of drafting__
