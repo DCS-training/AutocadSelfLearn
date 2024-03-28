@@ -47,14 +47,17 @@ Now you should be able to move around the __model space__ quite comfortably. Whe
 
 ### Ribbon of functions
 Traditionally, you will have to execute all commands by typing into the command bar. This was a considerable barrier to people who needed to master the software quickly. Therefore, throughout the years, AutoCAD has improved by including a ribbon where you can find the majority of the commands in the ribbon without typing. Nonetheless, it is highly recommended that you try to remember the commands and type them into the command bar, which increases efficiency considerably. 
+
 ![](https://github.com/ktonguk/autocad/blob/main/lesson1/image/01_ribbon.png)
 
 ### Units
 There is one piece of invisible information that is not readily readable from the interface but critical for your drawing, which is the units. To access the unit information, type units or un $\\rightarrow$ space. You will see a pop-up window showing the unit of the drawing, which is currently set as millimetres. If you would like to change the units, you just have to click on the drop-down menu and change it to the units appropriate for the drawing. Let's stick with millimetres for the time being.
+
 ![](https://github.com/ktonguk/autocad/blob/main/lesson1/image/11_units.png)
 
 ### Properties menu
 There is much more that you can extract information from the table drawing in the centre. For instance, what's the top surface area of the table? We could read the area directly from the properties menu. To access the menu, type properties or pr $\\rightarrow$ space. Go to the bottom of the pop-up menu and read the area. See if you have the same value as the screenshot below,
+
 ![](https://github.com/ktonguk/autocad/blob/main/lesson1/image/12_properties.png)
 
 ## Don't forget to save!
@@ -69,26 +72,36 @@ The ultimate product of AutoCAD is a drawing and a model that contains precise i
 * __Import reference__
   + Ensure the reference is in the right units as required.
 * __Draft in a draft layer__
-  + Insert a new layer and start drafting.
+  + Ensure all drafting lines are on the same layer.
 
 Based on these principles, let's make our first drawing. 
 ### Set units
 Start a new drawing by clicking on the Autodesk icon at the top left $\\rightarrow$ new $\\rightarrow$ drawing
+
 ![](https://github.com/ktonguk/autocad/blob/main/lesson1/image/00_interface.png)
+
 Set units by following the steps we introduced above (type units or un $\\rightarrow$ space). Set units to millimetres (mm).
+
 ![](https://github.com/ktonguk/autocad/blob/main/lesson1/image/11_units.png)
 
 ### Import reference
 * Download the Example-Example 1 - simplified.pdf from the folder. Save it in the folder and next to where your current drawing is.
 * Import your drawing to the model space. To do that, type pdf $\\rightarrow$ click on the top left-hand corner of the icon $\\rightarrow$ choose Example-Example 1 - simplified.pdf
 * There should be a pop-up box asking you the details in terms of scale and where you want to place it, please check the selections as per below,
+  
 ![](https://github.com/ktonguk/autocad/blob/main/lesson1/image/13_pdf.png)
+
 * After that, place your drawing anywhere in the model space. Click to confirm the insertion point.
+  
 ![](https://github.com/ktonguk/autocad/blob/main/lesson1/image/13_pdf_move.gif)
+
 * You will notice the drawing is a bit small. We need to scale this up. We know that length of the table is 1998mm. Therefore, we could use this as a reference. To do that, let's first create a line that is 1998mm long.
+  
 * #### Line command
 Type Line or L $\\rightarrow$ space $\\rightarrow$ mouse to first point $\\rightarrow$ mouse to second point $\\rightarrow$ "Esc"
+
 ![](https://github.com/ktonguk/autocad/blob/main/lesson1/image/04_line.gif)
+
 * #### Orthographic mode
 Wait a minute... it's a line. Therefore, it's supposed to be straight. However, it's not quite straight. How can I draw a completely straight line? To do that, you will need to turn on the ortho mode in AutoCAD. Ortho mode makes all line work to be drawn orthographical at 90 degrees. To do that, press F8 or the icon at the bottom right-hand corner.
 
@@ -102,12 +115,22 @@ Now you have a line that is 1998mm long. Move the pdf to line up with the refere
 
 * ### OSnap
 You will notice there are little snapping points to help me aim to reference my pdf to the reference line. However, those snapping points might be absent in your interface. To activate the snapping points, simply press type osnap $\\rightarrow$ space $\\rightarrow$ check endpoints as shown below,
+
 ![](https://github.com/ktonguk/autocad/blob/main/lesson1/image/15_osnap.png)
 
 * ### Scale up the pdf
 To scale up the drawing, type scale or sc $\\rightarrow$ space $\\rightarrow$ select base point (corner of the table) $\\rightarrow$ R $\\rightarrow$ space $\\rightarrow$ select endpoint (end corner of the table) $\\rightarrow$ select the target point for scaling up to (end of the reference line). 
+
 ![](https://github.com/ktonguk/autocad/blob/main/lesson1/image/16_scale.gif)
 
 * Now you have your baseline to start drafting! 
 
-  
+## __5. Basic commands and workflow to trace and draft an object
+Moving onto the final part of the lesson today. Let's learn some of the basic commands to draft the table pdf. By now, you should be comfortable with typing in your commands into the command bar and then executing it with the space bar. Therefore, for the materials, only the command name and the shortcut will be provided. 
+
+* Polyline (PL)
+Instead of using drafting with the command __line (L) __, we tend to draft with __Polyline (PL). The main reason is continuity. For the lines produced by the line command, lines are disjointed. However, more frequently, we are interested in the area / the perimeter of the geometries. Therefore, it is more common to draft them as continuous lines, which will give us one single object with an area that we can read from the properties menu right away. However, if you need lines to be disjointed, then lines will be a better option. Try using the polyline command to outline the table from the base view.
+
+![](https://github.com/ktonguk/autocad/blob/main/lesson1/image/17_polyline.gif)
+
+* 
