@@ -25,7 +25,7 @@ Based on these uses, the software is commonly used in the following industries,
 
 ## 3. Understanding the interface
 Once you have your AutoCAD open, click on the AutoDesk icon at the top left, then "New", and then press "Drawing" as shown in the following,
-![image caption: start a new drawing in AutoCAD.](image/01_interface.png)
+![image caption: start a new drawing in AutoCAD.](image/00_interface.png)
 
 
 
