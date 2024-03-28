@@ -125,7 +125,7 @@ To scale up the drawing, type scale or sc $\\rightarrow$ space $\\rightarrow$ se
 
 * Now you have your baseline to start drafting! 
 
-## __5. Basic commands and workflow to trace and draft an object
+## __5. Basic commands and workflow to trace and draft an object__
 Moving onto the final part of the lesson today. Let's learn some of the basic commands to draft the table pdf. By now, you should be comfortable with typing in your commands into the command bar and then executing it with the space bar. Therefore, for the materials, only the command name and the shortcut will be provided. 
 
 * Polyline (PL)
@@ -133,4 +133,22 @@ Instead of using drafting with the command __line (L)__, we tend to draft with _
 
 ![](https://github.com/ktonguk/autocad/blob/main/lesson1/image/17_polyline.gif)
 
-* 
+You will notice that there are snapping points throughout the reference pdf. Now try using the polyline and the line command to complete tracing the table for all views.
+
+* Cicle (C)
+There are some geometries in the pdf that cannot be drawn with lines or polylines because they are curves! For instance, the arc at the joint between the table top and the table leg is an example. Let's learn a new command, circle (C). You might struggle to find the centre of the arc. Use the osnap command introduced above, check "centre" and "midpoint".
+
+![](https://github.com/ktonguk/autocad/blob/main/lesson1/image/18_osnap-2.png)
+
+Then use line command to draw a reference line through the arc to be sure that you have identified the centre of the arc. Followed by typing circle or c into the command bar to draw a circle that touches the arc.
+
+![](https://github.com/ktonguk/autocad/blob/main/lesson1/image/19_circle.gif)
+
+* Trim (TR)
+Now you have the arc, what we need to do is to remove the unwanted lines. To do that, draw a line to divide the circle. Then type trim or tr $\\rightarrow$ space $\\rightarrow$ and select the part you want to trim. Then you should be able to get the arc for your table leg.
+
+![](https://github.com/ktonguk/autocad/blob/main/lesson1/image/20_trim.gif)
+
+The commands introduced throughout lesson one should enable you to complete the whole drawing. Keep practising and we will see each other in Lesson 2.
+
+Thank you for your time in doing this session with us!
