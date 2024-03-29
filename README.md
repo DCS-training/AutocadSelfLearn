@@ -8,17 +8,16 @@ Throughout this course, you will learn the fundamental principles of AutoCAD, fr
 ## Structure of the course
 The course is in 2 lessons. Here are the learning outcomes for lessons 1 and 2, respectively.
 * __Lesson 1__
-    + Why and when do we use AutoCAD?
+    + What is AutoCAD?
     + Why and when do we use AutoCAD?
     + Understanding the interface?
     + Understanding the workflow of drafting
-    + Basic commands and workflow to trace and draft an object
-    + Setting up your drawing 
+    + Basic commands and workflow to trace and draft an object 
 * __Lesson 2__
-    + Annotating your drawing
-    + Styling and Hatches
-    + Setting up your viewports and PDF for exports
-    + The use of blocks
+    + Overview of setting up your drawing
+    + Annotations
+    + Setting up the PDF for exporting your drawing
+    + Styling & Hatches
     + Exporting your drawing
 
 We hope you find the materials useful to set your foot into drafting 2D information conveniently. So, let's hop into the software. Happy CAD-ing!
