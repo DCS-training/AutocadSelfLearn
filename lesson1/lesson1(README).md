@@ -60,7 +60,7 @@ There is much more that you can extract information from the table drawing in th
 
 ![](https://github.com/ktonguk/autocad/blob/main/lesson1/image/12_properties.png)
 
-## Don't forget to save!
+### Don't forget to save!
 Ctrl + S works just fine in AutoCAD. You could alternatively click on the AutoCAD icon at the top left $\\rightarrow$ save. The typical format for sharing should be __.dwg__. 
 
 Well done at following us up to this point. Now let's move into the workflow of drafting!
