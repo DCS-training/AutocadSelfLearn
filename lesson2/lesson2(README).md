@@ -63,7 +63,7 @@ There should only be one layer at the moment. All lines should be within the 0 l
 
 ![](https://github.com/ktonguk/autocad/blob/main/lesson2/image/10_newlayer.gif)
 
-Next is to assign information to the annotation layer. To that, select the annotations you have created $\\rightarrow$ click on the dropdown menu at the centre of the ribbon $\\rightarrow$ select the annotation layer. You should be able to see a change in colour if you have set it up correctly. 
+Next is to assign information to the annotation layer. To that, select the annotations you have created $\\rightarrow$ click on the dropdown menu at the centre of the ribbon $\\rightarrow$ and select the annotation layer. You should be able to see a change in colour if you have set it up correctly. 
 
 ![](https://github.com/ktonguk/autocad/blob/main/lesson2/image/02_layer_ribbon.gif)
 
