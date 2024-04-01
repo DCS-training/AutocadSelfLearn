@@ -20,4 +20,13 @@ The course is in 2 lessons. Here are the learning outcomes for lessons 1 and 2, 
     + Styling & Hatches
     + Exporting your drawing
 
+## Installing AutoCAD onto your computer
+* AutoCAD is proprietary software developed by Autodesk. If you wish to purchase a license, you can find more information [here](https://www.autodesk.co.uk/products/autocad/free-trial). The software is available for a 14-day free trial. You could download a trial veresion of the software before committing to buy the license.
+* If you are a student or staff member of a higher education institution, you can download a free academic version. Instructions on how to do so can be found [here](https://www.autodesk.com/education/edu-software/overview?sorting=featured&filters=individual).
+* If you are a student or staff member of the University of Edinburgh, you can also download it directly from the Software Centre. Further instructions are available via this [link](https://www.ed.ac.uk/information-services/computing/desktop-personal/supported/windows-10/training/software-center).
+
+## Computer specifications for AutoCAD
+AutoCAD does not require a highly-spec computer to run smoother in general. However, if the file has multiple references, the performance is likely to be slowed down. Autodesk does provide recommendations for specification. Hope this is useful [](https://www.autodesk.com/support/technical/article/caas/sfdcarticles/sfdcarticles/System-requirements-for-AutoCAD-2022-including-Specialized-Toolsets.html)
+
+## Let's get going!
 We hope you find the materials useful to set your foot into drafting 2D information conveniently. So, let's hop into the software. Happy CAD-ing!
